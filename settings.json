@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "code-runner.showExecutionMessage": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "code-runner.runInTerminal": true,
+    "editor.linkedEditing": true,
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.statusBar.visible": false
+}
